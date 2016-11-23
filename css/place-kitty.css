@@ -2,17 +2,17 @@
 
 /*__write_selector_here__*/ {
   position: absolute;
-  z-index: 1;
+  z-index: 10;
   top: 276px;
   left: 129px;
 }
 
 /* Select the image with id of kitty-2 */
 
-/*__write_selector_here__*/ {
+#kitty-1 {
   position: absolute;
   z-index: 2;
-  top: 212px;
+  top: 412px;
   left: 369px;
 }
 
